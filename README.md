@@ -1,5 +1,4 @@
-**HOLA**, me llamo Julián, y este es mi perfil de Github jiasj disajdj >:(.
-Bueno, tengo acá cosas: 
+**HOLA**, me llamo Julián. Bueno, tengo acá cosas: 
 - https://julinza2007.github.io/paginas/ -
 
 <!---
